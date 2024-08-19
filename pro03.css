@@ -1,0 +1,94 @@
+body{ 
+    background-color: aliceblue;
+}
+
+.list{ 
+    text-transform: capitalize;
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-evenly;
+    margin-top: 4px;
+    list-style: none;
+    text-decoration-line: underline;
+    box-shadow: 30px;
+}
+
+.lists{ 
+    text-transform: capitalize;
+    
+    
+}
+.phase{ 
+    display: flex;
+}
+
+.Nth{
+    margin: 40px;
+    background-color: white;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.Tth{
+    background-color: white;
+    margin: 40px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.Eth{ 
+    background-color: white;
+    margin: 40px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.second{ 
+    text-transform: uppercase;
+    background-image: url("banner.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-color: beige;
+    border-style: none;
+    border-radius:none;
+    padding-top: none;
+    height: 100vh;
+    text-align: center; 
+
+     
+}
+.pth{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.items{ 
+    display: flex;
+}
+.third{ 
+    margin: 60px;
+    background-color: white;
+}
+
+.fourth{ 
+    margin: 60px;
+    background-color: white;
+}
+
+.Fth{ 
+    margin: 60px;
+    background-color: white;
+}
+
+.Sth{ 
+    margin: 60px;
+    background-color: white;
+}
+
+.SVth{ 
+    margin: 60px;
+    background-color: white;
+}
+
